@@ -8,7 +8,7 @@ This is a very simple template
 
 So basically a "static site laminar example"
 
-This repo itself publishes to gh pages over here: 
-
-1. Non-optimised JS http://blog.indoorvivants.com/laminar-static-gh-pages/index-dev.html
-2. Fully optimised JS: http://blog.indoorvivants.com/laminar-static-gh-pages/index-prod.html
+## Usage
+1. Run `sbt ~fastLinkJS`
+2. Open `index-dev.html` in a browser
+3. Refresh the page when you make changes
